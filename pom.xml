@@ -17,12 +17,8 @@
     </properties>
 
     <modules>
-        <module>start</module>
+        <module>study-boot-server</module>
         <module>study-boot-api</module>
-        <module>study-boot-dao</module>
-        <module>study-boot-manager</module>
-        <module>study-boot-service</module>
-        <module>study-boot-web</module>
     </modules>
 
     <dependencyManagement>
